@@ -51,4 +51,4 @@ if __name__ == '__main__':
     # Output: true
     # Explanation: "amanaplanacanalpanama" is a palindrome.
     input1 = "A man, a plan, a canal: Panama"
-    print(p1.isPalindrome2(input1))
+    print(p1.isPalindrome(input1))
